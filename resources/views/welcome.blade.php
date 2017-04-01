@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">诸葛小八卦正在建设中...</div>
             </div>
         </div>
     </body>
